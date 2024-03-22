@@ -4,7 +4,7 @@
 
 <h6>
   Version 2.0, January 2004<br>
-  [apache.org/licenses](https://www.apache.org/licenses/)
+  <a href="https://www.apache.org/licenses/">apache.org/licenses</a>
 </h6>
 
 ###### TERMS AND CONDITIONS FOR USE, REPRODUCTION, AND DISTRIBUTION
